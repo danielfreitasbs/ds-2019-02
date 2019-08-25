@@ -1,9 +1,9 @@
-# H1 Topicos importantes SWEBOK.
+# Topicos importantes SWEBOK.
 
-###### H6 Os principais pontos aqui abordados, foram principalmente ligados ao Design de Interface de Usuario(User Interface Design).
+###### Os principais pontos aqui abordados, foram principalmente ligados ao Design de Interface de Usuario(User Interface Design).
 
 1. - Item 4.1 - Principios Gerais de Design de Interface de Usuário
-..* *Learnability, User Familiriaty, Consistency, Minimal Surprise, User Guidance, User Diversity*: Particularmente, são pontos muito importantes do processo de Software Design, pois vai de encontro ao ator principal(_em muitos dos casos_), que é o Usuário. Que não será somente humano, isso é facilmente aplicado a outros agentes da aplicação.
+  ..* *Learnability, User Familiriaty, Consistency, Minimal Surprise, User Guidance, User Diversity*: Particularmente, são pontos muito importantes do processo de Software Design, pois vai de encontro ao ator principal(_em muitos dos casos_), que é o Usuário. Que não será somente humano, isso é facilmente aplicado a outros agentes da aplicação.
 
 2. Item 4.3, sobre Design de Modalidades de Interação do Usuário. Também pontos importantes, ao meu ver, pois mostram como é importante a interface de _conversa_ entre o software e o ator, que muitas vezes se encontra também no mundo externo(~vida real~).
 
