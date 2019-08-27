@@ -1,0 +1,24 @@
+- (Construção de Software, Modelagem de Software);
+- (Construção de Software, Design de Software);
+- (Design de Software, Arquitetura de Software)
+- (Domínios de Sofware, Construção de Software);
+- (Gerência de Projetos de Software, Engenharia de Sistemas);
+- (Processos de Qualidade de Software, Processos de Software);
+- (Software Concorrente e Distribuido, Design de Software);
+- (Software Concorrente e Distribuido, Construção de Software);
+- (Software Concorrente e Distribuido, Domínios de Software);
+- (Experiência do Usuário de Software, Requisitos de Software);
+- (Modelagem de Software, Requisitos de Software);
+- (Arquitetura de Software, Requisitos de Software);
+- (Software Concorrente e Distribuido, Governança e Gestão de Serviços de Software);
+- (Software para Persistencia de Dados, Modelagem de Software);
+- (Software para Persistencai de Dados, Construção de Software);
+- (Software para Persistencia de Dados, Design de Software);
+- (Software para Persistencia de Dados, Arquitetura de Software);
+- (Padrões de Arquitetura de Software, Requisitos de Software);
+- (Arquitetura de Software, Padrões de Arquitetura de Software);
+- (Testes de Software, Processos de Qualidade de Software);
+- (Testes de Software, Gerência de Projeto de Software);
+- (Governança e Gestão de Serviços de Software, Gerência de Projeto de Software);
+- (Domínios de Software, Gerência de Projetes de Software);
+- (*, Pratica em Engenharia de Software);
