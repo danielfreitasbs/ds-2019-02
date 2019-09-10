@@ -22,3 +22,6 @@
 - (Governança e Gestão de Serviços de Software, Gerência de Projeto de Software);
 - (Domínios de Software, Gerência de Projetes de Software);
 - (*, Pratica em Engenharia de Software);
+
+#### Exercício Escolhido
+- 06 _Google Cloud Storage (aqui), Amazon S3 (aqui) e Azure Blob Storage (aqui) são serviços “equivalentes” para armazenamento de dados..._
