@@ -7,7 +7,10 @@ import sun.net.www.content.text.plain;
 
 public class Sandwich{
     
+    // TODO Não deveria ser um Enum em vez de String? Resultaria em design melhor.
     private String pao;
+    
+    // TODO mesma consideracao do item anterior e para os seguintes. String não ajuda muito aqui. 
     private List<String> proteina;
     private List<String> salada;
     private List<String> molho;
@@ -89,6 +92,7 @@ public class Sandwich{
         final String paoPedido = "Pão: " + this.pao;
         final String pedido = String.join(" ", paoPedido, une(proteina), une(salada), une(molho), "\n");
 
+        // TODO esta é uma linha que merece comentário, pensava ter colocado.
         return pedido.trim().replaceAll(" +", " ");
     }
     
