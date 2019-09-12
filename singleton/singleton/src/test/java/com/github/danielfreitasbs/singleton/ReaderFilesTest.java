@@ -9,7 +9,7 @@ class ReaderFilesTest {
   @Test
   void naoHaComoCriarInstanciaSenaoPorMeioDeGetInstance() {
     assertThrows(IllegalAccessException.class,
-            () -> ReaderFiles.class.newInstance());
+            () -> ReaderFiles.class.getDeclaredConstructor().newInstance());
   }
 
   @Test
