@@ -1,8 +1,8 @@
 package com.github.danielfreitasbs.singleton;
 
-import static org.junit.jupiter.api.Assertions.assertThrows;
-import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
 
 class ReaderFilesTest {
 
@@ -13,7 +13,7 @@ class ReaderFilesTest {
   }
 
   @Test
-  void instanciaCriada() throws InstantiationException, IllegalAccessException {
-    assertTrue(ReaderFiles.getInstance() == ReaderFiles.class.newInstance());
+  void instanciaCriada() {
+    assertSame(ReaderFiles.getInstance(), ReaderFiles.getInstance());
   }
 }
