@@ -7,8 +7,18 @@ Amazon S3 e Azure Blob Storage são serviços “equivalentes” para armazename
 - Elencar atores da aplicação;
 - Realizar um teste com as aplicações semelhantes já atuantes no mercado;
 
+### Atividades - 2ª rodada
+- Verificar como é a criação de arquivos no S3;
+- Verificar como é a remoção de arquivos no S3;
+- Verificar como é a atualização de arquivos no S3;
+- Verificar como é a localização de arquivos no S3;
+- Verificar como é a localização de arquivos no Azure;
+- Verificar como é a criação de arquivos no Azure;
+- Verificar como é a remoção de arquivos no Azure;
+- Verificar como é a atualização de arquivos no Azure;
+
 #### Atores 
-- Desenvolvedor;
+- Código Cliente;
 - Amazon S3;
 - Azure Blob;
 
@@ -19,3 +29,10 @@ Amazon S3 e Azure Blob Storage são serviços “equivalentes” para armazename
 - O usuário como consumidor da solução deverá fornecer dados iniciais sobre as aplicações de armazenamento;
 - O usuário como consumidor da solução deseja saber em qual aplicação de armazenamento ficou o arquivo(REFINAR);
 - O usuário como consumidor da aplicação deseja realizar busca pelos arquivos através do nome dos arquivos;
+
+#### Requisitos - Segunda Revisão
+- O usuário como Codigo Cliente da solução deseja saber em qual aplicação de armazenamento ficou o arquivo(REFINADO);
+- O usuário como Codigo Cliente deseja ter um metodo unico de criação de arquivo;
+- O usuário como Codigo Cliente deseja ter um metodo unico de remoção de arquivo;
+- O usuário como Codigo Cliente deseja ter um metodo unico de atualização de arquivo;
+- O usuário como Codigo Cliente deseja ter um metodo unico de localização de arquivo;
