@@ -1,0 +1,1 @@
+- Envio de arquivos .XML padrão TISS em lotes, das 5 ultimas versoes de padrão do arquivo.
