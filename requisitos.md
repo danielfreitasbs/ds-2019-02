@@ -36,3 +36,10 @@ Amazon S3 e Azure Blob Storage são serviços “equivalentes” para armazename
 - O usuário como Codigo Cliente deseja ter um metodo unico de remoção de arquivo;
 - O usuário como Codigo Cliente deseja ter um metodo unico de atualização de arquivo;
 - O usuário como Codigo Cliente deseja ter um metodo unico de localização de arquivo;
+
+#### Caracteristicas - Azure
+- Utiliza de estrutura de pastas similar a um OS no momento de carregar os arquivos;
+- Necessita da criação de um container para conter os arquivos criados;
+- Podem ser criados vários containeres;
+- Lê arquivos do disco, mas é possivel manipular com IS;
+- Deleta o arquivo através do caminho;
