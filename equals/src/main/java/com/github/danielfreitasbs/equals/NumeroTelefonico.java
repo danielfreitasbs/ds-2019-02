@@ -6,6 +6,7 @@ public class NumeroTelefonico {
   private String codigoEstado;
   private String numeroDoTelefone;
   
+  // FIXME Veja observações feitas para o código do Octávio.
   
   /**
    * @param codigoPais
