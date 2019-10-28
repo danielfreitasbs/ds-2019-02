@@ -31,5 +31,15 @@ Existe o desejo de normalizar a estrutura de arquivos TISS das versões 03.04.00
 - A solução deve produzir um arquivo XML;
 - O novo arquivo deve ser persistido em diretorio raiz no diretorio especificado ../tiss/processados/;
 
-###Primeira Iteração - EXECUTANDO...
+###Primeira Definição
+
+- Identificada a classe #identificador. Que realiza a identificação da versão do arquivo;
+- Criação de uma Interface #Filtro, que contera o metodo _filtrar(arquivo: xml)_ , que terá como resposta uma _list<Guia>_;
+- Classe guia, que conterá os atributos que representam os campos do arquivo XML
+- CLasse #Escrever, que receberá um _list<Guia>_ como parametro e deverá escrever um arquivo .XML;
+
+## Atividades da Primeira Iteração
+- Definir os atributos da classe #Guia;
+- Produzir diagrama de sequencia;
+- Revisar requisitos;
 
