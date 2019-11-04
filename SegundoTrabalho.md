@@ -43,3 +43,11 @@ Existe o desejo de normalizar a estrutura de arquivos TISS das versões 03.04.00
 - Produzir diagrama de sequencia;
 - Revisar requisitos;
 
+## Realizações da Primeira Iteração
+- Definida através de diagrama o conceito da solução;
+- Requisitos reavaliados
+
+## Atividades da Segunda Iteração
+- Definir especificação em formato de texto. Complementar ao diagrama.
+- Reavaliar o design;
+
