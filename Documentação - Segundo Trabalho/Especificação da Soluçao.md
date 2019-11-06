@@ -3,7 +3,7 @@
 O design da solução está dividida em três partes para melhor entendimento. A primeira parte conta com um _diagrama de sequencia_ que tem a finalidade de conceituar sobre o fluxo de funcionamento da solução, a segunda que conta com um diagrama das principais classes modelos e uma descrição detalhada sobre a solução. 
 
 ## Diagrama de Sequencia
-(https://github.com/danielfreitasbs/ds-2019-02/blob/master/Documenta%C3%A7%C3%A3o%20-%20Segundo%20Trabalho/diagramaDeSequencia.png)
+![diagramaDeSequencia](diagramaDeSequencia.png)
 
 ## Digrama de Classes
 ![diagramaClasses]
