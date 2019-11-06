@@ -11,7 +11,7 @@ O design da solução está dividida em três partes para melhor entendimento. A
 ## Descrição Detalhada
 
 ### Objetivo
-    A solução deve ser capaz de identificar a versão(baseado nas versões especificadas nos [requisitos](#)) de um arquivo XML em padrão TISS para Prestadores que traz dados de todos os tipos de guias, fornecido como entrada. Em _posteriori_, deverá ser realizado um filtro dos atributos, independente da versão que for informada. Os atributos filtrados deverão obedecer os atributos especificado na classe *Guia* no (diagrama de classes[diagramaClasses]), e também pode ser encontrada a compatibilidade de _chave_-_atributo_ no [dicionário de compatibilidade].
+ A solução deve ser capaz de identificar a versão(baseado nas versões especificadas nos [requisitos](#)) de um arquivo XML em padrão TISS para Prestadores que traz dados de todos os tipos de guias, fornecido como entrada. Em _posteriori_, deverá ser realizado um filtro dos atributos, independente da versão que for informada. Os atributos filtrados deverão obedecer os atributos especificado na classe *Guia* no (diagrama de classes[diagramaClasses]), e também pode ser encontrada a compatibilidade de _chave_-_atributo_ no [dicionário de compatibilidade].
 
 #### Bibliografias Necessárias
 
