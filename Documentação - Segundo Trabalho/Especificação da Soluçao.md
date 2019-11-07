@@ -2,6 +2,8 @@
 
 O design da solução está dividida em três partes para melhor entendimento. A primeira parte conta com um _diagrama de sequencia_ que tem a finalidade de conceituar sobre o fluxo de funcionamento da solução, a segunda que conta com um diagrama das principais classes modelos e uma descrição detalhada sobre a solução. 
 
+!!!Atente-se ao uso do padrão através da documentação especificada nas referencias bibliograficas necessárias.
+
 ## Diagrama de Sequencia
 ![diagramaDeSequencia](diagramaDeSequencia.png)
 
@@ -10,7 +12,7 @@ O design da solução está dividida em três partes para melhor entendimento. A
 
 ## Descrição Detalhada
 
- A solução deve ser capaz de identificar a versão(baseado nas versões especificadas nos [requisitos](#)) de um arquivo XML em padrão TISS para Prestadores que traz dados de todos os tipos de guias, fornecido como entrada. Em _posteriori_, deverá ser realizado um filtro dos atributos, independente da versão que for informada. Os atributos filtrados deverão obedecer os atributos especificado na classe *Guia* no diagrama de [classes](#), e também pode ser encontrada a compatibilidade de _chave_-_atributo_ no [dicionário de compatibilidade](Dicionario de Compatibilidade.md).
+ A solução deve ser capaz de identificar a versão(baseado nas versões especificadas nos [requisitos](#)) de um arquivo XML em padrão TISS para Prestadores que traz dados de todos os tipos de guias, fornecido como entrada. Em _posteriori_, deverá ser realizado um filtro dos atributos, independente da versão que for informada. Os atributos filtrados deverão obedecer os atributos especificado na classe *Guia* no diagrama de [classes](#), e também pode ser encontrada a compatibilidade de _chave_-_atributo_ no [dicionário de compatibilidade](/Dicionario de Compatibilidade.md).
 
 
 #### Bibliografias Necessárias
