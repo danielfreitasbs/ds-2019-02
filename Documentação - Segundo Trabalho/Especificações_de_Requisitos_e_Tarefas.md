@@ -51,3 +51,9 @@ Existe o desejo de normalizar a estrutura de arquivos TISS das versões 03.04.00
 - Definir especificação em formato de texto. Complementar ao diagrama.
 - Reavaliar o design;
 
+## ISSUES AO VIVO
+
+- As classes que compõe a solução e suas(possiveis) relações;
+- A funcionalidades mais importantes da solução;
+- 
+
