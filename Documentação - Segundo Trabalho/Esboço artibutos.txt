@@ -1,9 +1,0 @@
--> st_codigoPrestadorNaOperadora | idPrestador
--> st_codigoBeneficiario | idBeneficiario
--> st_numeroGuia | numGuia
--> st_quantidadeProcedimento | qtdeProcedimento
--> dataAtendimento(Complex Type) | dataAtendimento
--> procedimento/codigoProcedimento | cdgoProcedimento
--> tipoConsulta(Complex Type) |  tipoConsultaEnum
--> dataEmissaoGuia(Complex Type) | dataEmissao
--> numeroGuiaPrincipal | numGuiaPrincipal
