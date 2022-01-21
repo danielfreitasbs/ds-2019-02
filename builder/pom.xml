@@ -23,7 +23,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<h2.url>jdbc:h2:tcp://localhost:9092/./target/database</h2.url>
-		<h2.version>1.4.197</h2.version>
+		<h2.version>2.1.210</h2.version>
 
 		<flyway.user>sa</flyway.user>
 	</properties>
